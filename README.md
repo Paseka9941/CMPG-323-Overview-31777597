@@ -18,4 +18,6 @@ The branching strategy that i will use is GitFlow whereby   i will interact with
 When making commits to each repository, i will choose the files i  want to stage and then i will commit them.
 But i might not want to commit every single one of my files—there are files that never need to get committed. This is where the .gitignore file is useful: it tells Git exactly which files to ignore and never track.
 
+###### Storage of credentials and sensetive information
+
 
