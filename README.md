@@ -19,5 +19,11 @@ When making commits to each repository, i will choose the files i  want to stage
 But i might not want to commit every single one of my files—there are files that never need to get committed. This is where the .gitignore file is useful: it tells Git exactly which files to ignore and never track.
 
 ###### Storage of credentials and sensetive information
+By default, the git credentials in the “store” mode will be stored in the
+“.git-credentials” file in the user’s home directory (~/.git-credentials)
+
+In Windows the path is C:\Users\<username>\.git-credentials
+In Mac and Linux the path is /Users/<username>/.git-credentials
+
 
 
