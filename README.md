@@ -27,7 +27,7 @@ In Mac and Linux the path is /Users/<username>/.git-credentials
 
 
 
-Project 2
+#Project 2
 # CMPG-323-Project-2--31777597
 In this project we are going to show why APIs are useful for more than accessing information for data-driven decision-making we have three tables which are categories, 
 devices, and zones. In our project we have built APIs where we can build programs that run GET, POST, and DELETE on the data the server is hosting and transform that 
